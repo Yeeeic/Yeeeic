@@ -2,7 +2,7 @@
 
 ### 💻 Estudiante de Ingeniería en Computación
 
-Soy estudiante de **8.º semestre de Ingeniería en Computación en la UAEM Valle de Chalco**, con formación técnica en **Soporte y Mantenimiento de Equipo de Cómputo**.
+Soy estudiante de **7.º semestre de Ingeniería en Computación en la UAEM Valle de Chalco**, con formación técnica en **Soporte y Mantenimiento de Equipo de Cómputo**.
 
 Me interesa el desarrollo de software, la ciberseguridad y la creación de soluciones tecnológicas que resuelvan problemas reales. Actualmente continúo fortaleciendo mis conocimientos mediante proyectos académicos y personales.
 
