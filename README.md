@@ -41,4 +41,4 @@ Busco seguir desarrollándome en áreas como programación, ciberseguridad, auto
 
 ## 📌 Proyectos destacados
 
-Próximamente compartiré aquí mis principales proyectos académicos y personales.
+Aqui mis principales proyectos académicos y personales.
