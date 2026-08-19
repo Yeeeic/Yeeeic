@@ -41,4 +41,14 @@ Busco seguir desarrollándome en áreas como programación, ciberseguridad, auto
 
 ## 📌 Proyectos destacados
 
-Aqui mis principales proyectos académicos y personales.
+### [Escáner School](https://github.com/Yeeeic/escaner-school)
+
+Sistema de control de acceso escolar mediante credenciales QR. Incluye escáner en tiempo real, panel administrativo, gestión de alumnos y personal, estadísticas, auditoría y exportación de reportes.
+
+**Tecnologías:** Python, FastAPI, SQLAlchemy, JavaScript, HTML, CSS, SQLite y seguridad HMAC.
+
+### [Control Escolar](https://github.com/Yeeeic/control-escolar)
+
+Sistema web para administrar información académica y facilitar la consulta de datos mediante paneles para usuarios del entorno escolar.
+
+**Tecnologías:** JavaScript, HTML, CSS y desarrollo web.
